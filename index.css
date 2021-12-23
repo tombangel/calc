@@ -111,7 +111,6 @@ button {
   grid-column-start: 4;
 }
 
-button:active,
 button:hover,
 button:focus {
   filter: brightness(180%);
